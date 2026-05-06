@@ -138,18 +138,23 @@ less retail competition.
 ### Dashboard Pages
 
 **Page 1 — Executive Summary**
+
 Overall KPIs, order fulfillment rate and yearly revenue vs profit comparison
 
 **Page 2 — Product & Profit Analysis**
+
 Category revenue vs profit, margin analysis with conditional formatting and revenue vs margin scatter plot
 
 **Page 3 — Customer Insights**
+
 Retention rate, repeat vs one-time customers, customer segmentation and AOV by state
 
 **Page 4 — Revenue Trends & Payment Patterns**
+
 Monthly revenue 2017 vs 2018, payment method revenue share and average payment value analysis
 
 **Page 5 — Strategic Recommendations**
+
 5 data-backed business findings with specific actionable recommendations for each
 
 ### Key Metrics
