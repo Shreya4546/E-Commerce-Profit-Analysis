@@ -214,7 +214,11 @@ This project was built as a portfolio case study for Data Analyst roles, demonst
 
 <img width="1052" height="587" alt="img 5" src="https://github.com/user-attachments/assets/ef9e2a00-aa80-454f-adb4-98cfc87a071c" />
 
+
 **Author:** Shreya Ranjan
+
 **Role:** Data Analyst
+
 **Tools:** MySQL, Power BI
+
 **Dataset:** Olist Brazilian E-Commerce (Kaggle)
