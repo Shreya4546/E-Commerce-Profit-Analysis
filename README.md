@@ -160,16 +160,27 @@ Monthly revenue 2017 vs 2018, payment method revenue share and average payment v
 ### Key Metrics
 
 Total Revenue: Rs. 13.88M 
+
 Total Profit: Rs. 11.56M 
+
 Avg Profit Margin: 67.79% 
+
 Total Orders: 96,478 
+
 Unique Customers: 93,358 
+
 Avg Order Value: Rs. 143.83 
+
 Customer Retention Rate: 3.00% 
+
 Repeat Customers: 2,801 
+
 Best Margin Category: Computers (94.44%) 
+
 Highest Revenue Category: Health Beauty (Rs. 1.27M) 
+
 Star Category: Watches & Gifts (82.65% margin) 
+
 
 ## Statistical Highlights
 
