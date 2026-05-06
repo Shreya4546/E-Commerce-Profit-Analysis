@@ -25,13 +25,21 @@ Kaggle - Dataset source
 **Tables used:**
 
 olist_orders - Order header information 
+
 olist_order_items - Products per order 
+
 olist_order_payments - Payment details 
+
 olist_order_reviews - Customer reviews 
+
 olist_customers - Customer information 
+
 olist_products - Product catalog 
+
 olist_sellers - Seller information 
+
 product_category_translation - Portuguese to English 
+
 
 **Analysis scope:** Delivered orders only (96,478 orders)
 
