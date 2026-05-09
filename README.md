@@ -205,6 +205,8 @@ This project was built as a portfolio case study for Data Analyst roles, demonst
 
 ## Dashboard Preview
 
+Link - https://drive.google.com/file/d/1jqKNOuYALl_FtBKh2ke07V5_mg9gTEQI/view?usp=drive_link
+
 <img width="1162" height="657" alt="Executive Summary" src="https://github.com/user-attachments/assets/6ed1a777-c639-468b-a345-522116adc58f" />
 
 <img width="1162" height="652" alt="Product   Profit" src="https://github.com/user-attachments/assets/63c1df75-f3d2-4977-88f0-76eb8e30cbce" />
