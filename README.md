@@ -123,7 +123,7 @@ This seasonal pattern will repeat every year.
 
 ### 5. Northeastern States — High Value Market
 States PB (234), AC (213), AL (206) show average order
-values 40-60% above the overall average of Rs. 143.83.
+values 40-60% above the overall average of R$ 143.83.
 These smaller markets have high-spend customers with
 less retail competition.
 
