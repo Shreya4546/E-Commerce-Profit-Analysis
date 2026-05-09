@@ -100,7 +100,7 @@ Root cause: High freight costs for heavy and bulky items.
 - Review pricing strategy on low margin SKUs
 
 ### 3. Watches & Gifts — Star Category
-Ranks 2nd in revenue (Rs. 1.21M) AND 1st in profit margin
+Ranks 2nd in revenue (R$ 1.21M) AND 1st in profit margin
 (82.65%). Only top-5 category above average margin.
 Revenue grew from rank 3 in 2017 to rank 2 in 2018 —
 fastest growing category in the dataset.
@@ -159,9 +159,9 @@ Monthly revenue 2017 vs 2018, payment method revenue share and average payment v
 
 ### Key Metrics
 
-Total Revenue: Rs. 13.88M 
+Total Revenue: R$ 13.88M 
 
-Total Profit: Rs. 11.56M 
+Total Profit: R$ 11.56M 
 
 Avg Profit Margin: 67.79% 
 
@@ -169,7 +169,7 @@ Total Orders: 96,478
 
 Unique Customers: 93,358 
 
-Avg Order Value: Rs. 143.83 
+Avg Order Value: R$ 143.83 
 
 Customer Retention Rate: 3.00% 
 
@@ -177,7 +177,7 @@ Repeat Customers: 2,801
 
 Best Margin Category: Computers (94.44%) 
 
-Highest Revenue Category: Health Beauty (Rs. 1.27M) 
+Highest Revenue Category: Health Beauty (R$ 1.27M) 
 
 Star Category: Watches & Gifts (82.65% margin) 
 
@@ -204,15 +204,16 @@ Star Category: Watches & Gifts (82.65% margin)
 This project was built as a portfolio case study for Data Analyst roles, demonstrating practical skills in MySQL database design, advanced SQL analysis, business insight generation and Power BI dashboard development. The project highlights how data analytics can drive decisions around profit optimization, customer retention,product strategy and marketing investment allocation.
 
 ## Dashboard Preview
-<img width="1057" height="590" alt="img 1" src="https://github.com/user-attachments/assets/f34f08fa-2c56-44d7-b55e-51089ab2b3f4" />
 
-<img width="1050" height="593" alt="img 2" src="https://github.com/user-attachments/assets/71bef228-65b1-4988-beef-b8dbab1580ef" />
+<img width="1162" height="657" alt="Executive Summary" src="https://github.com/user-attachments/assets/6ed1a777-c639-468b-a345-522116adc58f" />
 
-<img width="1052" height="588" alt="img 3" src="https://github.com/user-attachments/assets/49c627b0-4198-4bf4-b1ed-abb5fa616d9d" />
+<img width="1162" height="652" alt="Product   Profit" src="https://github.com/user-attachments/assets/63c1df75-f3d2-4977-88f0-76eb8e30cbce" />
 
-<img width="1056" height="588" alt="img 4" src="https://github.com/user-attachments/assets/e3b7755d-449d-4c0f-9912-b2641d8e0392" />
+<img width="1162" height="650" alt="Customer Insights" src="https://github.com/user-attachments/assets/18283d04-3915-4a8d-a4a7-bdcdcfff0e79" />
 
-<img width="1052" height="587" alt="img 5" src="https://github.com/user-attachments/assets/ef9e2a00-aa80-454f-adb4-98cfc87a071c" />
+<img width="1161" height="651" alt="Advanced Analysis" src="https://github.com/user-attachments/assets/4c8fb8a4-a692-44c2-a4d8-599ff3093209" />
+
+<img width="1162" height="647" alt="Insights   Recommendations" src="https://github.com/user-attachments/assets/663b382b-65df-4b21-8a8d-4f5198654f1c" />
 
 
 **Author:** Shreya Ranjan
